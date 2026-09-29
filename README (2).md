@@ -56,7 +56,11 @@ Frontend
 
 ### Blockers / Challenges
 
+finding engaging UI
+
 ### What I learned
+
+UI
 
 ---
 
