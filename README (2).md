@@ -64,21 +64,31 @@ UI
 
 ---
 
-## Day 3 — Date: \_\_\_\_
+## Day 3 — Date: 30/9/2026
 
 ### What I planned to do today
+
+finish frontend
 
 ### What I actually did
 
+frontend have finished!
+
 ### Blockers / Challenges
+
+css grid, background image
 
 ### What I learned
 
+debug, css element for setting background image
+
 ---
 
-## Day 4 — Date: \_\_\_\_
+## Day 4 — Date: 01/10/26
 
 ### What I planned to do today
+
+convert html into php
 
 ### What I actually did
 
