@@ -92,9 +92,15 @@ convert html into php
 
 ### What I actually did
 
+sql
+
 ### Blockers / Challenges
 
+sql cannot run
+
 ### What I learned
+
+debug
 
 ---
 
