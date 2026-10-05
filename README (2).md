@@ -87,7 +87,6 @@ debug, css element for setting background image
 ## Day 4 — Date: 01/10/26
 
 ### What I planned to do today
-
 convert html into php
 
 ### What I actually did
@@ -100,55 +99,69 @@ sql cannot run
 
 ### What I learned
 
-debug
+remember to connect php and sql
 
 ---
 
-## Day 5 — Date: \_\_\_\_
+## Day 5 — Date: 02/10/26
 
 ### What I planned to do today
+convert html into php
 
 ### What I actually did
+register
 
 ### Blockers / Challenges
+don't know which php element should i have
 
 ### What I learned
+refer to previous exercise and learning portal
 
 ---
 
-## Day 6 — Date: \_\_\_\_
+## Day 6 — Date: 03/10/26
 
 ### What I planned to do today
+convert html into php
 
 ### What I actually did
+login and logout
 
 ### Blockers / Challenges
+don't know which php element should i have
 
 ### What I learned
-
+refer to previous exercise and learning portal
 ---
 
-## Day 7 — Date: \_\_\_\_
+## Day 7 — Date: 04/10/26
 
 ### What I planned to do today
+convert html into php
 
 ### What I actually did
+struggling where to start with
 
 ### Blockers / Challenges
+don't know which php element should i have
 
 ### What I learned
-
+plan before do
 ---
 
-## Day 8 — Date: \_\_\_\_
+## Day 8 — Date: 05/10/26
 
 ### What I planned to do today
+convert html into php
 
 ### What I actually did
+RBAC
 
 ### Blockers / Challenges
+confusing between each of the role
 
 ### What I learned
+refer to the material in learning portal
 
 ---
 
