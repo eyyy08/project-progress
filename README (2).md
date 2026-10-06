@@ -165,15 +165,19 @@ refer to the material in learning portal
 
 ---
 
-## Day 9 — Date: \_\_\_\_
+## Day 9 — Date: 06/10/26
 
 ### What I planned to do today
+CRUD
 
 ### What I actually did
+CRUD
 
 ### Blockers / Challenges
+A lot of error....
 
 ### What I learned
+debug
 
 ---
 
