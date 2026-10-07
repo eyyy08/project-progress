@@ -181,15 +181,19 @@ debug
 
 ---
 
-## Day 10 — Date: \_\_\_\_
-
+## Day 10 — Date:07/10/26
 ### What I planned to do today
+randomize's feature
 
 ### What I actually did
+admin page, randomize
 
 ### Blockers / Challenges
+Many bugs, PDOException..
 
 ### What I learned
+try/catch
+
 
 ---
 
