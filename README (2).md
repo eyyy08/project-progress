@@ -197,21 +197,26 @@ try/catch
 
 ---
 
-## Day 11 — Date: \_\_\_\_
+## Day 11 — Date: 08/10/26
 
 ### What I planned to do today
+Finish all of the page
 
 ### What I actually did
+Finish all of the page
 
 ### Blockers / Challenges
+Name of users cannot be shown
 
 ### What I learned
+htmlspecialchars($_SESSION['user']['name'])
 
 ---
 
-## Day 12 — Date: \_\_\_\_
+## Day 12 — Date: 09/10/26
 
 ### What I planned to do today
+Polishing CSS
 
 ### What I actually did
 
