@@ -216,11 +216,13 @@ htmlspecialchars($_SESSION['user']['name'])
 ## Day 12 — Date: 09/10/26
 
 ### What I planned to do today
-Polishing CSS
+Polishing
 
 ### What I actually did
+Preparing for the presentation
 
 ### Blockers / Challenges
+Remember the code
 
 ### What I learned
 
