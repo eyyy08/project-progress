@@ -228,13 +228,16 @@ Remember the code
 
 ---
 
-## Day 13 — Date: \_\_\_\_
+## Day 13 — Date: 10/10/26
 
 ### What I planned to do today
+Polishing
 
 ### What I actually did
+beautify the features
 
 ### Blockers / Challenges
+have some problem with cdn...
 
 ### What I learned
 
