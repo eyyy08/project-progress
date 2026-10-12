@@ -225,6 +225,7 @@ Preparing for the presentation
 Remember the code
 
 ### What I learned
+how each part works (login, RBAC, CRUD, randomizer)
 
 ---
 
@@ -240,25 +241,32 @@ beautify the features
 have some problem with cdn...
 
 ### What I learned
-
+check the link and the browser console when something doesn’t load
 ---
 
-## Day 14 — Date: \_\_\_\_
+## Day 14 — Date: 11/12/26
 
 ### What I planned to do today
+Final polish
 
 ### What I actually did
+Change the design of badge, understand the code
 
 ### Blockers / Challenges
+no more idea with ui..
 
 ### What I learned
+Presenting needs more than finishing the code
 
 ---
 
 ## Final Reflection
 
 ### What went well?
+I successfully to build a working wardrobe app with a login system, three user roles, CRUD, and a random outfit generator.
 
 ### What would I do differently?
+I would plan before coding.
 
 ### Key takeaways from this project
+Planning save me a lot of time, learn to debug, and the previous exercises and learning portal are useful references. I also learned how PHP, MySQL, sessions and role-based access work together in a real web app.
